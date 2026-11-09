@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "appId": "alphacut-studio",
+  "enabled": true,
+  "minimumVersion": "1.0.0",
+  "message": "사용할 수 있습니다.",
+  "issuedAt": "2026-11-09T05:39:25.821Z",
+  "expiresAt": "2027-11-09T05:39:25.821Z",
+  "revision": 1794202765821,
+  "signature": "9AV1yZ5GgI9VYcEmwRVQAt15C71gmy2UNT1oj03HmgOdQP9ed96SIzke1UPSrNQGXmFANabLiS+HZVbWUMQkBg=="
+}
