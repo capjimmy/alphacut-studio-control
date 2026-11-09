@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "appId": "alphacut-studio",
-  "enabled": false,
+  "enabled": true,
   "minimumVersion": "1.0.0",
-  "message": "원격 중지 기능 검증 중입니다.",
-  "issuedAt": "2026-11-09T05:59:16.739Z",
-  "expiresAt": "2027-11-09T05:59:16.739Z",
-  "revision": 1794203956739,
-  "signature": "xDHZt+DRa/Ca0JUYEJXzpehcIeOD3mVbu31949a0VvgoIDe8CTfaZbEe9skJ/5uPyPePzbjnD3++51IwFbnODw=="
+  "message": "사용할 수 있습니다.",
+  "issuedAt": "2026-11-09T05:59:19.644Z",
+  "expiresAt": "2027-11-09T05:59:19.644Z",
+  "revision": 1794203959644,
+  "signature": "mDKR3b2l4OEidueW+/+4zYaTcmCUovl7b20i9bVrkcP4zg+Bsea9aovxmvzi4kdNdLSK2BjcamzY0mcxW14DDA=="
 }
